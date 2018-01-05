@@ -1,2 +1,2 @@
 # training-classes
-kali-pen-testing-training-class
+training-class
